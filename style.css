@@ -248,9 +248,13 @@ section#points-of-sale ul{
 #clients, #contact{
     border-top: 1px solid #ccc;
     padding-top: 30px
+
+}
+#clients, #contact, #tweets {
+border-top: 1px solid #ccc;
 }
 
-#clients h2, #contact h2{
+#clients h2, #contact h2, #tweets h2{
     background: green;
     color: #fff;
     padding: 8px;
